@@ -18,6 +18,6 @@
 <br>
 <a href="https://learn.microsoft.com/en-gb/users/eazel-1101/credentials/662a76867f40a136?ref=https%3A%2F%2Fwww.linkedin.com%2F">Certification SC-900</a>
 #### Mar - Jun 2024 Cysecurity Advance AZ-500
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification"> Microsoft Certified: Security, Compliance, and Identity Fundamentals</a>
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification">Microsoft Certified: Azure Security Engineer Associate</a>
 <br>
 <a href="https://learn.microsoft.com/en-gb/users/eazel-1101/credentials/663189b97cfe34e5?ref=https%3A%2F%2Fwww.linkedin.com%2F">Certification AZ-500</a>
