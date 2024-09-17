@@ -9,7 +9,7 @@
 
 ## Leaning Path: 
 ### 
-<img width="20" src="https://i.imgur.com/DQGvQpe.png"><a href="https://www.linkedin.com/school/redi-school-of-digital-integration/posts/?feedView=all">ReDI School of Digital Integration</a></img> 
+<img width="30" src="https://i.imgur.com/DQGvQpe.png"><a href="https://www.linkedin.com/school/redi-school-of-digital-integration/posts/?feedView=all">ReDI School of Digital Integration</a></img> 
 
 ### Mar - Jun 2024 Cysecurity Advance AZ-500
 <img width="15" src="https://i.imgur.com/7ATok04.png"><a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification">Microsoft Certified: Azure Security Engineer Associate</a> </img> 
