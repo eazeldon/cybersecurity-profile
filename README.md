@@ -27,4 +27,5 @@
 ## Tools
 ### Wireshark and Microsoft Azure
 ## Group study
-- <a href="https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview">Microsoft Zero Trust</a>
+- <a href="https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview">What is Zero Trust?</a>
+- <a href="https://www.microsoft.com/en-us/security/business/zero-trust">Zero Trust principles</a>
