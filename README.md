@@ -3,7 +3,7 @@
 ## About 
 ### Hi I'm Eazel Don Frantzich. As I move forward in my career, I'm pursuing my passion for web development and cybersecurity. I’ve furthered my skills by taking a Diploma in Software Development - Full Stack Web Development at Code Institute and several online courses on related subjects. I'm now working on advancing my Cybersecurity skills by taking a course on ReDI School. I’m looking for level 1 SOC analyst and Security Administrator position. I’m a fast learner and hard-working person that is dedicated to my work.
 <br>
-<a href="https://www.linkedin.com/in/eazel-don-frantzich/"></a>
+<a href="https://www.linkedin.com/in/eazel-don-frantzich/">Linkedin Profile</a>
 
 ## TIttle
 ### Full Stack Developer Freelance / Frontend Developer / Ecommerce 
