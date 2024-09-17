@@ -26,7 +26,7 @@
 - <a href="https://learn.microsoft.com/en-gb/users/eazel-1101/credentials/662a76867f40a136?ref=https%3A%2F%2Fwww.linkedin.com%2F">Certification SC-900</a>
 
 ## Study group
-### <a src="https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview">What is Zero Trust?</a>
+### <a href="https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview">What is Zero Trust?</a>
 
 ## Tools
 ### Wireshark and Microsoft Azure
