@@ -7,7 +7,7 @@
 ### Full Stack Developer Freelance / Frontend Developer / Ecommerce 
 ### Transistioning to the role of SOC Analyst Level 1 or Security Administrator Level 1
 
-## Leaning Path: 
+## Leaning Path
 ### 
 <img width="30" src="https://i.imgur.com/DQGvQpe.png"><a href="https://www.linkedin.com/school/redi-school-of-digital-integration/posts/?feedView=all">ReDI School of Digital Integration</a></img> 
 
