@@ -18,7 +18,7 @@
 ### Sep - Dec 2023 Cysecurity basic AZ-900 and SC-900
 <img width="15" src="https://i.imgur.com/7ATok04.png"><a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">Microsoft Certified: Azure Fundamentals</a></img> 
 <br>
-- <a href="om/en-us/users/eazel-1101/credentials/ff61854784785177?ref=https%3A%2F%2Fwww.linkedin.com%2F">Certification AZ-900</a>
+- <a href="https://learn.microsoft.com/en-us/users/eazel-1101/credentials/ff61854784785177?ref=https%3A%2F%2Fwww.linkedin.com%2F">Certification AZ-900</a>
 
 <img width="15" src="https://i.imgur.com/7ATok04.png"><a href="https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification"> Microsoft Certified: Security, Compliance, and Identity Fundamentals</a></img>
 <br>
