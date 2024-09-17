@@ -8,7 +8,7 @@
 ### Transistioning to the role of SOC Analyst Level 1 or Security Administrator Level 1
 
 ## Leaning Path: 
-### ReDI School of Digital Integration 
+### <a href="https://www.linkedin.com/school/redi-school-of-digital-integration/posts/?feedView=all">ReDI School of Digital Integration</a> 
 
 ### Mar - Jun 2024 Cysecurity Advance AZ-500
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification">Microsoft Certified: Azure Security Engineer Associate</a>
