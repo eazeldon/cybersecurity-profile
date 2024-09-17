@@ -22,6 +22,9 @@
 
 <img width="15" src="https://i.imgur.com/7ATok04.png"><a href="https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification"> Microsoft Certified: Security, Compliance, and Identity Fundamentals</a></img>
 <br>
+
+## Study group
+### <a src="https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview">What is Zero Trust?</a>
 - <a href="https://learn.microsoft.com/en-gb/users/eazel-1101/credentials/662a76867f40a136?ref=https%3A%2F%2Fwww.linkedin.com%2F">Certification SC-900</a>
 
 ## Tools
