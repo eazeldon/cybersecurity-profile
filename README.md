@@ -10,5 +10,5 @@
 ### Leaning Path: 
 #### ReDI School of Digital Integration 
 #### Sep - Dec 2023 Cysecurity basic AZ-900 and SC-900
-<a src="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">Microsoft Certified: Azure Fundamentals</a>
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">Microsoft Certified: Azure Fundamentals</a>
 #### Mar - Jun 2024 Cysecurity Advance AZ-500
