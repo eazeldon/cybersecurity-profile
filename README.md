@@ -1,4 +1,4 @@
-<img width="100" src="https://i.imgur.com/9YPY47E.jpeg"></img> <h1>Eazel</h1>
+<img width="100" src="https://i.imgur.com/9YPY47E.jpeg">Eazel</img>
 
  
 
