@@ -12,3 +12,4 @@
 #### Sep - Dec 2023 Cysecurity basic AZ-900 and SC-900
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">Microsoft Certified: Azure Fundamentals</a>
 #### Mar - Jun 2024 Cysecurity Advance AZ-500
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification"> Microsoft Certified: Security, Compliance, and Identity Fundamentals</a>
