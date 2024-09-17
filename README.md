@@ -1,6 +1,6 @@
 
 
-## About me
+## About 
 ### Hi I'm Eazel Don Frantzich. As I move forward in my career, I'm pursuing my passion for web development and cybersecurity. I’ve furthered my skills by taking a Diploma in Software Development - Full Stack Web Development at Code Institute and several online courses on related subjects. I'm now working on advancing my Cybersecurity skills by taking a course on ReDI School. I’m looking for level 1 SOC analyst and Security Administrator position. I’m a fast learner and hard-working person that is dedicated to my work.
 
 ## TIttle
@@ -23,3 +23,6 @@
 <img width="15" src="https://i.imgur.com/7ATok04.png"><a href="https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification"> Microsoft Certified: Security, Compliance, and Identity Fundamentals</a></img>
 <br>
 - <a href="https://learn.microsoft.com/en-gb/users/eazel-1101/credentials/662a76867f40a136?ref=https%3A%2F%2Fwww.linkedin.com%2F">Certification SC-900</a>
+
+## Tools
+### Wireshark and Microsoft Azure
