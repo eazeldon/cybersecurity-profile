@@ -1,7 +1,4 @@
-<img width="100" src="https://i.imgur.com/9YPY47E.jpeg">Eazel</img>
-
- 
-
+<img width="100" src="https://i.imgur.com/9YPY47E.jpeg"></img>
 ### Name
 ### Eazel Don Frantzich
 ### TIttle
