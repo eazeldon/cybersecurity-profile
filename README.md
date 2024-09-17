@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/9YPY47E.jpeg" hight="150" widht="300"></img>
+<img src="https://i.imgur.com/9YPY47E.jpeg"></img>
 
 ## Eazel Don Frantzich
 ### Full Stack Developer Freelance / 
