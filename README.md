@@ -2,7 +2,8 @@
 
  
 
-## Eazel Don Frantzich
+### Name
+### Eazel Don Frantzich
 ### TIttle
 #### Full Stack Developer Freelance / Frontend Developer / Ecommerce 
 #### Transistioning to the role of SOC Analyst Level 1 or Security Administrator Level 1
