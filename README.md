@@ -1,4 +1,5 @@
-<img href="https://imgur.com/a/Daz48wE"/>
+<img href="https://imgur.com/a/Daz48wE"></img>
+
 ## Eazel Don Frantzich
 ### Full Stack Developer Freelance / 
 ### Frontend Developer / Ecommerce /
