@@ -5,7 +5,7 @@
 <br>
 <a href="https://www.linkedin.com/in/eazel-don-frantzich/">Linkedin Profile</a>
 
-## TIttle
+## Title
 ### Full Stack Developer Freelance / Frontend Developer / Ecommerce 
 ### Transistioning to the role of SOC Analyst Level 1 or Security Administrator Level 1
 
