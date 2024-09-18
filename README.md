@@ -11,7 +11,7 @@
 
 ## Leaning Path
 ### 
-<img width="30" src="https://i.imgur.com/DQGvQpe.png"><a href="https://www.linkedin.com/school/redi-school-of-digital-integration/posts/?feedView=all">ReDI School of Digital Integration</a></img> 
+<img width="40" src="https://i.imgur.com/DQGvQpe.png"><a href="https://www.linkedin.com/school/redi-school-of-digital-integration/posts/?feedView=all">ReDI School of Digital Integration</a></img> 
 
 ### Mar - Jun 2024 Cysecurity Advance AZ-500
 <img width="15" src="https://i.imgur.com/7ATok04.png"><a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification">Microsoft Certified: Azure Security Engineer Associate</a> </img> 
@@ -27,7 +27,7 @@
 
 - <a href="https://learn.microsoft.com/en-gb/users/eazel-1101/credentials/662a76867f40a136?ref=https%3A%2F%2Fwww.linkedin.com%2F">Certification SC-900</a>
 
-## Study group
+## Group Study
 ### <a href="https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview">What is Zero Trust?</a>
 
 ## Tools
