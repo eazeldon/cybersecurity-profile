@@ -30,6 +30,13 @@
 ## Group Study
 ### <a href="https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview">What is Zero Trust?</a>
 
+## Understanding vulnerabilities and how to secure a safe digital environment
+- <a href="https://www.fortinet.com/resources/cyberglossary/kerberos-authentication">Kerberos Authentication</a>
+- <a href="https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/">How Does Kerberos Work? The Authentication Protocol Explained</a>
+- <a href="https://heimdalsecurity.com/blog/mimikatz/">What is Mimikatz? What can it do and how to protect</a>
+- <a href="https://www.varonis.com/blog/what-is-mimikatz">What is Mimikatz? The Beginner's Guide</a>
+- <a href="https://www.youtube.com/watch?v=vyDz58x_Tng&t=168s">What is Mimikatz and how can you protect against it?</a>
+
 ## Tools
 ### Wireshark and Microsoft Azure
 
