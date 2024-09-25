@@ -29,6 +29,7 @@
 
 ## Group Study
 ### <a href="https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview">What is Zero Trust?</a>
+### <a href="https://www.ibm.com/topics/zero-trust">20 June 2024 Contributors: Gregg Lindemulder, Matthew Kosinski</a>
 
 ## Understanding vulnerabilities and how to secure a safe digital environment
 - <a href="https://www.fortinet.com/resources/cyberglossary/kerberos-authentication">Kerberos Authentication</a>
