@@ -36,6 +36,8 @@
 - <a href="https://heimdalsecurity.com/blog/mimikatz/">What is Mimikatz? What can it do and how to protect</a>
 - <a href="https://www.varonis.com/blog/what-is-mimikatz">What is Mimikatz? The Beginner's Guide</a>
 - <a href="https://www.youtube.com/watch?v=vyDz58x_Tng&t=168s">What is Mimikatz and how can you protect against it?</a>
+-<a href="https://www.fortinet.com/resources/cyberglossary/brute-force-attack">What Is A Brute Force Attack?</a>
+- <a href="https://phoenixnap.com/kb/prevent-brute-force-attacks">How to Prevent Brute Force Attacks</a>
 
 ## Tools
 ### Wireshark and Microsoft Azure
