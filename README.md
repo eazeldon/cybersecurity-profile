@@ -2,7 +2,7 @@
 
 ## About 
 ### As I move forward in my career, I'm pursuing my passion in cybersecurity. I'm now working on advancing my Cybersecurity skills by taking courses at ReDI School. I’m looking for a level 1 SOC analyst, Security analyst level, Security Administrator position. I’m a curious and hard-working person dedicated to my work.
-<br>
+
 ### LinkedIn 
 <a href="https://www.linkedin.com/in/eazel-don-frantzich/">Linkedin Profile</a>
 
