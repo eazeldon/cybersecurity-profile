@@ -1,8 +1,7 @@
 
 
 ## About 
-### As I move forward in my career, I'm pursuing my passion in cybersecurity. I'm now working on advancing my Cybersecurity skills by taking courses at ReDI School. I’m looking for a level 1 SOC analyst, Security analyst and Security Administrator position. I’m a curious and hard-working person dedicated to my work.
-
+### Throughout my carrer I have made it a point to learn new skills and tools. Recently, I have expanded my expertise into cybersecurity, completing a one-year Microsoft cybersecuirty program. I am passionate about digital security and I am looking for an entry-level Azure Cloud Security, SOC Analyst or Network Security Analyst role, where I can add value by applying my analytical skills and technical knowledge to protect system data.
 ### LinkedIn 
 <a href="https://www.linkedin.com/in/eazel-don-frantzich/">Linkedin Profile</a>
 
